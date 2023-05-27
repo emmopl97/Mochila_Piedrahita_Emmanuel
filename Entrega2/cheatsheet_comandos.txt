@@ -1,0 +1,17 @@
+Here are some of the most used commands on git:
+In order to clone an existing repo - git clone repo_URL
+
+In order to create a new local repo while standing in the current directory - git init
+
+In order to add, commit and push - git add -A; git commit -m "name of commit"; git push -u origin main
+
+In order to add a new remote branch to your git repo - git remote add gitURL
+
+In order to switch between branches - git checkout branchName
+
+In order to create a new branch - git branch branchName
+
+In order to show the current repo status - git status
+
+In order to commit from the original branch of the origin remote and merges it into the branch I´ve already checked - git pull origin main
+
